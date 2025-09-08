@@ -10,11 +10,12 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Wt47xzik)",
   "type": "module",
   "dependencies": {
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
+    "mongodb": "^6.19.0",
     "mysql2": "^3.14.3"
   },
   "devDependencies": {
@@ -22,5 +23,14 @@
     "@types/node": "^24.3.0",
     "tsx": "^4.20.4",
     "typescript": "^5.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifmsnv-frameworks/criar-uma-rota-get-para-produtos-backend-Nanicalog.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ifmsnv-frameworks/criar-uma-rota-get-para-produtos-backend-Nanicalog/issues"
+  },
+  "homepage": "https://github.com/ifmsnv-frameworks/criar-uma-rota-get-para-produtos-backend-Nanicalog#readme"
 }
